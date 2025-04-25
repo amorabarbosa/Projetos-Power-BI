@@ -27,6 +27,13 @@ Storytelling com dados
 
   📊 Projetos Incluídos
 
-RH - Projeto desenvolvido no Intensivão do Power BI da Hashtag Treinamentos
+Projetos desenvolvidos no Intensivão do Power BI da Hashtag Treinamentos.
+
+  Dashboard Financeiro.
+  
+  Dashboard de Vendas.
+
+  Dashboard de Produção.
+  
   Dashboard de RH com métricas de turnover.
 
