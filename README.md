@@ -27,7 +27,7 @@ Storytelling com dados
 
   📊 Projetos Incluídos
 
-Projetos desenvolvidos no Intensivão do Power BI da Hashtag Treinamentos.
+Projetos desenvolvidos na ALURA e no Intensivão do Power BI da Hashtag Treinamentos.
 
   Dashboard Financeiro.
   
@@ -36,4 +36,6 @@ Projetos desenvolvidos no Intensivão do Power BI da Hashtag Treinamentos.
   Dashboard de Produção.
   
   Dashboard de RH com métricas de turnover.
+
+  Dashboard Buscante: Relatórios de uma e-commerce de livros.
 
